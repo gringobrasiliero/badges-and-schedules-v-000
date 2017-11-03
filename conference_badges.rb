@@ -21,3 +21,14 @@ attendees.each do |name|
 end
 return room_assignments
 end
+
+def printer
+badges.each do |badge|
+  puts badge
+end
+room_assignments.each do |room_assignment|
+  puts room_assignment
+end
+  
+end
+
