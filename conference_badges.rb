@@ -21,6 +21,3 @@ attendees.each do |name|
 end
 return room_assignments
 end
-
-
-
